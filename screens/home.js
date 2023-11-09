@@ -44,6 +44,7 @@ function Home() {
             backgroundColor: "white",
             gap: 24,
           }}
+          showsVerticalScrollIndicator={false}
         >
           <View>
             <View style={{ width: "100%", height: 155 }}>
